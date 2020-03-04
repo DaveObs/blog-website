@@ -1,4 +1,0 @@
-[build]
-  base    = "blog-website/hatta-website"
-  publish = "public"
-  command = "gatsby build"
