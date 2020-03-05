@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"3XHS":function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),c=t("Wbzz");n.default=function(){return o.a.createElement(o.a.Fragment,null,o.a.createElement("h1",null,"Hi from the second page ens penis penis"),o.a.createElement("p",null,"Welcome to page 2"),o.a.createElement(c.a,{to:"/"},"Go back to the homepage"))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-30f5a8b134f688fc9b1b.js.map
